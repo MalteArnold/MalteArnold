@@ -3,16 +3,8 @@ I am 28 years old, from Germany, and passionate about all topics related to data
 - 📝 Check out my repositories to follow my journey and have a look at my projects.
 - 📫 Connect with me on LinkedIn to get in touch.
 ## Toolbox 📦
-"Python" "SQL" "OOP" "Machine Learning" "AI" "Git" "Kanban"
-- 👋 Hi, I’m @MalteArnold
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MalteArnold/MalteArnold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- `Data Science` `Python` `SQL` `OOP` `Machine Learning` `AI` `Git` `Kanban` `Big Data`
+- `Leadership` `Strategic thinking` `Communication` `Digital strategy` `Business administration` `Marketing`
+## Fun fact ⚡ 
+- 🌊 City kid but an absolute water and nature enthusiast.
+- 🏄 Whenever possible, I'm drawn to activities like surfing, wakeboarding, and more.
